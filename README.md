@@ -183,6 +183,4 @@ Pull requests, bug reports, and feature suggestions are welcome!
 * [DeepSORT Realtime](https://github.com/levan92/deep-sort-realtime)
 * [OpenCV](https://opencv.org/)
 
----
 
-### 🧩 Made by Harsh Bavaskar
