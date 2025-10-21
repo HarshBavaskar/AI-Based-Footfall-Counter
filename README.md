@@ -29,6 +29,10 @@ It’s designed for scalability and integration in:
 * 🧠 Research & Urban Planning
 
 ---
+## DEMO
+![Footfall Counter Demo](Demo.mp4)
+
+---
 
 ## ⚙️ Key Features
 
