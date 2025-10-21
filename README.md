@@ -30,7 +30,7 @@ It’s designed for scalability and integration in:
 
 ---
 ## 🎬 Demo Video
-[![Watch video](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/harshbavaskar/footfall-counter-ai/blob/main/Demo.mp4)
+[![Watch video](https://img.shields.io/badge/Watch-Demo-blue)](Demo.mp4)
 
 ---
 
